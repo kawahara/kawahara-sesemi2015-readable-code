@@ -7,5 +7,5 @@
 # How to execute
 
 ```
-php recipe.php
+php recipe.php FILENAME
 ```
